@@ -1,0 +1,2 @@
+def chat_with_ai(prompt):
+    return f"Вы сказали: {prompt}"
